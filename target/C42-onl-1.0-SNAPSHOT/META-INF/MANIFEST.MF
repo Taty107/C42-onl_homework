@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Shara
+Build-Jdk: Amazon Corretto 24.0.2
+
